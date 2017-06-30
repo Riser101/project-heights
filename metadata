@@ -1,0 +1,816 @@
+{
+	u 'video_hits': [{
+		u 'score': 7327.900390625,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'tfpWDPkKw_Q',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/tfpWDPkKw_Q/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Khalid - Keep Me'
+		}
+	}, {
+		u 'score': 252.21261596679688,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'WP8TdWVHVJY',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/WP8TdWVHVJY/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'The Black Keys -  Keep me ( Sons of Anarchy ) HD'
+		}
+	}, {
+		u 'score': 129.7371368408203,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u '74UVI1yYHrU',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/74UVI1yYHrU/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Patrick Dopson-Keep Me'
+		}
+	}, {
+		u 'score': 110.90095520019531,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u '_uxh063IdT0',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/_uxh063IdT0/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Crowder - Keep Me (Audio)'
+		}
+	}, {
+		u 'score': 103.81636047363281,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'fuRhegiOLN8',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/fuRhegiOLN8/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'MORTEN - Keep Me From You (feat. ODA)'
+		}
+	}, {
+		u 'score': 91.41547393798828,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'zHa3JTEJmOU',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/zHa3JTEJmOU/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Cape Cub - Keep Me In Mind'
+		}
+	}, {
+		u 'score': 83.76700592041016,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'XTCedHJMB84',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/XTCedHJMB84/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'MORTEN - Keep Me From You (ft. ODA)'
+		}
+	}, {
+		u 'score': 80.63862609863281,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u '5yqvEXoIPVA',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/5yqvEXoIPVA/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Sheppard - Keep Me Crazy (Lyric Video)'
+		}
+	}, {
+		u 'score': 71.8378677368164,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u '3_DTZGtaELo',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/3_DTZGtaELo/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Zac Brown Band - Keep Me In Mind'
+		}
+	}, {
+		u 'score': 67.83919525146484,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'fTCH8BjqgJ0',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/fTCH8BjqgJ0/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Ripstar & Nyanda feat Pitbull - Keep me up all Night (Official Lyric Video)'
+		}
+	}, {
+		u 'score': 65.12135314941406,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'iFy3SwS-LuQ',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/iFy3SwS-LuQ/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'MORTEN - Keep Me From You (feat. ODA)'
+		}
+	}, {
+		u 'score': 60.55547332763672,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'rHDDLqCxMHA',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/rHDDLqCxMHA/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Travis Greene feat. KJ Scriven, Laura Wilson - You Keep Me'
+		}
+	}, {
+		u 'score': 60.2407112121582,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'oz1NhMMdaig',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/oz1NhMMdaig/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Van Morrison - Keep Me Singing'
+		}
+	}, {
+		u 'score': 60.207645416259766,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'CBKm4mr3heY',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/CBKm4mr3heY/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Sheppard - Keep Me Crazy (Official Video)'
+		}
+	}, {
+		u 'score': 59.43769454956055,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'cQHJsDOeiJg',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/cQHJsDOeiJg/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'The Black Keys - Keep Me'
+		}
+	}, {
+		u 'score': 56.149784088134766,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'mPA942OQ4nI',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/mPA942OQ4nI/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Ashes Remain - "Keep Me Breathing" with lyrics'
+		}
+	}, {
+		u 'score': 48.15830993652344,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'xJZF-skCY-M',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/xJZF-skCY-M/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u "Kim Wilde - You Keep Me Hangin' On"
+		}
+	}, {
+		u 'score': 41.90401077270508,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'Az4UIXADnIo',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/Az4UIXADnIo/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Barny Rubble - Keep Me Gold (feat. Henry Green)'
+		}
+	}, {
+		u 'score': 38.9688720703125,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'L5IVBpltQKI',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/L5IVBpltQKI/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'The Sam Willows - Keep Me Jealous (Official Music Video)'
+		}
+	}, {
+		u 'score': 38.91380310058594,
+		u 'type': u '8',
+		u 'youtube_video': {
+			u 'kind': u 'sj#video',
+			u 'id': u 'QPC7ueKbJLY',
+			u 'thumbnails': [{
+				u 'url': u 'https://i.ytimg.com/vi/QPC7ueKbJLY/mqdefault.jpg',
+				u 'width': 320,
+				u 'height': 180
+			}],
+			u 'title': u 'Zac Brown Band - Keep Me In Mind (Lyrics)'
+		}
+	}], u 'artist_hits': [{
+		u 'type': u '2',
+		u 'artist': {
+			u 'kind': u 'sj#artist',
+			u 'artistArtRef': u 'http://lh3.googleusercontent.com/9kINUTKx_QmD2v1UFb3q7DW3Di_kIcMiMAzecc_cSh6jGGmw9oh0XOZjZjFxrT9g8cdxFgHZNuk',
+			u 'name': u 'The Black Keys',
+			u 'artist_bio_attribution': {
+				u 'license_url': u 'http://creativecommons.org/licenses/by-sa/4.0/legalcode',
+				u 'kind': u 'sj#attribution',
+				u 'license_title': u 'Creative Commons Attribution CC-BY-SA 4.0',
+				u 'source_title': u 'Wikipedia',
+				u 'source_url': u 'https://en.wikipedia.org/wiki/The_Black_Keys'
+			},
+			u 'artistId': u 'Aeumsxlhnhsjmifx5vdp6ctxeam',
+			u 'artistArtRefs': [{
+				u 'url': u 'http://lh3.googleusercontent.com/9kINUTKx_QmD2v1UFb3q7DW3Di_kIcMiMAzecc_cSh6jGGmw9oh0XOZjZjFxrT9g8cdxFgHZNuk',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '2',
+				u 'autogen': False
+			}]
+		}
+	}, {
+		u 'type': u '2',
+		u 'artist': {
+			u 'artistArtRefs': [{
+				u 'url': u 'http://lh3.googleusercontent.com/ibPdvcSZDYlq-ogeEscyrV16meCstkz6Eb_uHssoQ3xMPdsZ7mv4wAuZkVq3SITi_I6eoWbY',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '2',
+				u 'autogen': True
+			}, {
+				u 'url': u 'http://lh6.ggpht.com/qRurd7KjLtxd2BDIUFhSTtxLYJ6i9p6Ad2Dp6omI5GZuRRJSvoCfEcsMbVzml0JAtpKlv_nw3Wg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': True
+			}],
+			u 'kind': u 'sj#artist',
+			u 'artistArtRef': u 'http://lh3.googleusercontent.com/ibPdvcSZDYlq-ogeEscyrV16meCstkz6Eb_uHssoQ3xMPdsZ7mv4wAuZkVq3SITi_I6eoWbY',
+			u 'name': u 'Keep Me Alive',
+			u 'artistId': u 'Azzxtkwt75a5hp67onitpu73ao4'
+		}
+	}], u 'song_hits': [{
+		u 'track': {
+			u 'album': u 'Rubber Factory',
+			u 'trackAvailableForSubscription': True,
+			u 'kind': u 'sj#track',
+			u 'storeId': u 'Tkt7fyybc6x6ttnr4mwibofs2lq',
+			u 'artist': u 'The Black Keys',
+			u 'albumArtRef': [{
+				u 'url': u 'http://lh3.googleusercontent.com/4xBH4a2-EzYwCMKeXoF8hwZgM4VV-pbKfAEUvHHBaB2qligLGieIxu9_2bd8XLAaueeh9M-f',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}],
+			u 'title': u 'Keep Me',
+			u 'nid': u 'kt7fyybc6x6ttnr4mwibofs2lq',
+			u 'estimatedSize': u '6885904',
+			u 'albumId': u '5erjiezrziryj2hqv7zvdlqbg4',
+			u 'artistId': [u 'eumsxlhnhsjmifx5vdp6ctxeam'],
+			u 'albumArtist': u 'The Black Keys',
+			u 'durationMillis': u '172000',
+			u 'composer': u '',
+			u 'year': 2004,
+			u 'trackNumber': 12,
+			u 'discNumber': 1,
+			u 'trackAvailableForPurchase': True,
+			u 'trackType': u '7',
+			u 'explicitType': u '2',
+			u 'albumAvailableForPurchase': True
+		},
+		u 'type': u '1'
+	}, {
+		u 'track': {
+			u 'album': u 'American Teen',
+			u 'trackAvailableForSubscription': True,
+			u 'kind': u 'sj#track',
+			u 'storeId': u 'T5iayyeanrjgl4srexn3avuwbwy',
+			u 'artist': u 'Khalid',
+			u 'albumArtRef': [{
+				u 'url': u 'http://lh3.googleusercontent.com/QvXY5pS5HzJjnmGOLVuyE6JWVa71Yx45cnKFAgMO88Zh86O3q4At5NJSDqXhsyxGxDKLdQBW',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}],
+			u 'title': u 'Keep Me',
+			u 'nid': u '5iayyeanrjgl4srexn3avuwbwy',
+			u 'estimatedSize': u '11051912',
+			u 'albumId': u 'wx5xvkpnp4yoyi36shkqggmnbu',
+			u 'artistId': [u 'rq5rde3pgv5nt2cc5zr2fg54bu'],
+			u 'albumArtist': u 'Khalid',
+			u 'durationMillis': u '276000',
+			u 'composer': u 'Khalid',
+			u 'year': 2017,
+			u 'trackNumber': 13,
+			u 'discNumber': 1,
+			u 'trackAvailableForPurchase': True,
+			u 'trackType': u '7',
+			u 'explicitType': u '2',
+			u 'albumAvailableForPurchase': True
+		},
+		u 'type': u '1'
+	}], u 'podcast_hits': [], u 'playlist_hits': [], u 'album_hits': [{
+		u 'album': {
+			u 'explicitType': u '2',
+			u 'kind': u 'sj#album',
+			u 'name': u 'Keep Me Singing',
+			u 'artist': u 'Van Morrison',
+			u 'albumArtRef': u 'http://lh3.googleusercontent.com/lPkNqLROS-WHGgDd_5TzBKGfuGpt_yRv_Qln7TxkXR71JT93B94qgfz1QqtysZAapC8cBCD3',
+			u 'albumId': u 'Bmqsnqz6r45fe4gkrtkowbhcdrq',
+			u 'artistId': [u 'Aipvb4pceg552tekxtggrnpajy4'],
+			u 'albumArtist': u 'Van Morrison',
+			u 'year': 2016
+		},
+		u 'type': u '3'
+	}, {
+		u 'album': {
+			u 'explicitType': u '2',
+			u 'kind': u 'sj#album',
+			u 'name': u 'Keep Me Warm',
+			u 'artist': u 'Frank Sinatra',
+			u 'albumArtRef': u 'http://lh6.ggpht.com/oKHlNaMGEGF3YT5M844deecjybti147JVJ7E-bitzg8lZ8Ju04IQG1ZcYTq42SYjARbONvjFGCc',
+			u 'albumId': u 'Byipswdfz4aoy2kb5b7rugsh2vy',
+			u 'artistId': [u 'Agq2vf7t7dntodd446tw5fhku4e'],
+			u 'albumArtist': u 'Frank Sinatra',
+			u 'year': 2014
+		},
+		u 'type': u '3'
+	}], u 'station_hits': [{
+		u 'station': {
+			u 'kind': u 'sj#radioStation',
+			u 'byline': u 'By Google Play Music',
+			u 'name': u 'Feel-Good Classic Rock',
+			u 'stationSeeds': [{
+				u 'kind': u 'sj#radioSeed',
+				u 'curatedStationId': u 'Lfrsdgh2ojzkor3h37pndh2g56y',
+				u 'seedType': u '9'
+			}],
+			u 'contentTypes': [u '1'],
+			u 'seed': {
+				u 'kind': u 'sj#radioSeed',
+				u 'curatedStationId': u 'Lfrsdgh2ojzkor3h37pndh2g56y',
+				u 'seedType': u '9'
+			},
+			u 'skipEventHistory': [],
+			u 'compositeArtRefs': [{
+				u 'url': u 'http://lh3.googleusercontent.com/iuMaU0wMIvtkZpxKS_SJwo8zGCSzgcpzvhREmbd8AilU_OZ7xg4DsMyf9A',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1'
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/K2w92i-dEYmQqHuMZ0-BdvE1l9BhpmY3Fux19fmYVyP_g8zfdcfEth5hIA',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '2'
+			}],
+			u 'imageUrls': [{
+				u 'url': u 'http://lh3.googleusercontent.com/i3WAV0xh4oJ0qpEgkYj-gELLOEbXTXhySsgUVHpHAgpWC0FFBS3qf2vBCOcB_0_UWzlH_xlaOA',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/ZIEcTgr4QK1R82pMT0ozIXLYduTvrBV--i3fMpMhgsRpMKKvVop1RmeOIWQ1WzzPlhiSb4Xiqg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/LPYGz3dFDl2MR752rd_0EISbMwhu9G_nV4ByLE1BjgyWwtC9a2iKxnG2XEexCA9dYk7Lpknz_g',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/AHocr7Gu0CJA-1aLCe6Ju3fZocC64jQzFIatyYMUJ24d8i0VEa5hm2WsIfKeOFSQtvskuG_g4F8',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/iWaUgd7vBwdzWrsoNXHSUpy3Wo2X4m4w8zVGxXmRLDta6geYa_IoH_Zpdyq71Tjw1_ER6TWZfQ',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/qjbysoEBMiVwd4AkVxpkuON_jUMeUJ0bdEHy2-q3zHcs3eSu41vzzZsG8cqoehi1WaWEgmanFw',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.ggpht.com/32y5ENCWQUR8Pw_EHCLw1X74sk2JFNSM1L6TRQcGlTLwX-njPif1FIoHtw6r1NI6EUkCCb-kqkA',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/FOyY-x48AWa2cWM9p-7QHDYHysCZIpbvv6avjvmq1841lSPjfgnb-IeDhQ69ErMvo_pmSvKK_ZQ',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}],
+			u 'description': u 'Keep the good times going strong with this heap of joyful classic rock jams.'
+		},
+		u 'type': u '6'
+	}, {
+		u 'station': {
+			u 'kind': u 'sj#radioStation',
+			u 'name': u 'The Black Keys',
+			u 'compositeArtRefs': [{
+				u 'url': u 'http://lh3.googleusercontent.com/QS96j8FOF4_80cmyyvj7keulYi3dEqDWGFRT14lin06P_lDONPTFEPMB',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1'
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/XIslplJko-K27wfJgHLJ5JxzgOvAVy5mFW8adRcm_Sb0aYEU13lRgSWPJg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '2'
+			}],
+			u 'seed': {
+				u 'kind': u 'sj#radioSeed',
+				u 'artistId': u 'Aeumsxlhnhsjmifx5vdp6ctxeam',
+				u 'seedType': u '3'
+			},
+			u 'skipEventHistory': [],
+			u 'stationSeeds': [{
+				u 'kind': u 'sj#radioSeed',
+				u 'artistId': u 'Aeumsxlhnhsjmifx5vdp6ctxeam',
+				u 'seedType': u '3'
+			}],
+			u 'imageUrls': [{
+				u 'url': u 'http://lh3.googleusercontent.com/9kINUTKx_QmD2v1UFb3q7DW3Di_kIcMiMAzecc_cSh6jGGmw9oh0XOZjZjFxrT9g8cdxFgHZNuk',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '2',
+				u 'autogen': False
+			}]
+		},
+		u 'type': u '6'
+	}, {
+		u 'station': {
+			u 'kind': u 'sj#radioStation',
+			u 'byline': u 'By Google Play Music',
+			u 'name': u 'Tropicalidad',
+			u 'stationSeeds': [{
+				u 'kind': u 'sj#radioSeed',
+				u 'curatedStationId': u 'Lj4u2ib6wxgywhozixmbhta7bby',
+				u 'seedType': u '9'
+			}],
+			u 'contentTypes': [u '1'],
+			u 'seed': {
+				u 'kind': u 'sj#radioSeed',
+				u 'curatedStationId': u 'Lj4u2ib6wxgywhozixmbhta7bby',
+				u 'seedType': u '9'
+			},
+			u 'skipEventHistory': [],
+			u 'compositeArtRefs': [{
+				u 'url': u 'http://lh3.googleusercontent.com/6CaaQ-wHVVgn6p56vAkPDcfz8FGezW6O84473GKO5oFib6KbmAZ8QZEGWA',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1'
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/GSM3msMNrvzQD28tRi82KGV_oV0zc1Rxjn4w2KgCBR1lKFuwxHrByXLbVw',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '2'
+			}],
+			u 'imageUrls': [{
+				u 'url': u 'http://lh3.ggpht.com/i-FMaUT71b4n4kYU-mcn2sfcVrZQTYGic6KeNFhmy4HzOfW790GKcgaDKbyp70jQFvpzv6jvsA',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh4.ggpht.com/lnny_-RjtKCyAXdO5Yg3LcbjOE22rQsjIQ0Lx4qtuoEGDSnZrWuRaG7uaZw25VmV3HFQKHVDAAE',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/youynI4lW6TLjC49npwSCQrY28zY5DXXnhnRvDj4Mse3H1EAsC8DtQCm7VOzPhRSPMxYdWm9Dw',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/wqos1XCfXceQLHhlpaIZSrvPbBKJrhWFUa4AqRO1zQJ9NLRaHh3e19t3iUovGs10OmVEm2soHQ',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/vanPE_CgDueKeW1vOpbr0I9zblzSxj4-QAcdkwuuJmjv2W6wZNGFJdzcbgAr2Vm_paI7fs0pAUI',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh4.ggpht.com/4b5sNbY1F4vNmjxMK-d6udyvhFZHQDXUyynYNx-0cl64dBmUuTfzsVTFX3jvFzpezqiSbP_ihZE',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/x7dCh2jUs6myKrOx5eppdjTpVotH1ZOwooC2ZzjkjQBvhSoPq-ozq2C_IHqAz4Ed8Evd_79aKg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/CRAHH97bBqF9F9vfSOL-2w7VJhX7MctrEzvlGXRhJeXAppbGfWVdb8IAtsAMm-z14qn1bnxr',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}],
+			u 'description': u "Add a little bit of Latin flavor to your party with hits from today's biggest names in Tropical music. A mix of salsa, merengue, and bachata that is sure to keep the dance floor caliente!"
+		},
+		u 'type': u '6'
+	}, {
+		u 'station': {
+			u 'kind': u 'sj#radioStation',
+			u 'name': u 'Keep Me',
+			u 'compositeArtRefs': [{
+				u 'url': u 'http://lh3.googleusercontent.com/vHubhtKxEwjP0JLpLPIFfLEqSfEnpJULWBkCDfBUPadDDQbfwwemmEKVhxw',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '4'
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/q_Wpn1VKyK3YMx8UDegVrUmIAcn4beCjlJP3EB99nITPt9GvyKuwmZFm_w',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1'
+			}],
+			u 'seed': {
+				u 'trackId': u 'Tkt7fyybc6x6ttnr4mwibofs2lq',
+				u 'kind': u 'sj#radioSeed',
+				u 'seedType': u '2'
+			},
+			u 'skipEventHistory': [],
+			u 'stationSeeds': [{
+				u 'trackId': u 'Tkt7fyybc6x6ttnr4mwibofs2lq',
+				u 'kind': u 'sj#radioSeed',
+				u 'seedType': u '2'
+			}],
+			u 'imageUrls': [{
+				u 'url': u 'http://lh3.googleusercontent.com/4xBH4a2-EzYwCMKeXoF8hwZgM4VV-pbKfAEUvHHBaB2qligLGieIxu9_2bd8XLAaueeh9M-f',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}]
+		},
+		u 'type': u '6'
+	}, {
+		u 'station': {
+			u 'kind': u 'sj#radioStation',
+			u 'byline': u 'By Google Play Music',
+			u 'name': u 'Bar Rock Sing-Alongs',
+			u 'stationSeeds': [{
+				u 'kind': u 'sj#radioSeed',
+				u 'curatedStationId': u 'Lppdtokpw7uj4uwcyfhhujakrom',
+				u 'seedType': u '9'
+			}],
+			u 'contentTypes': [u '1'],
+			u 'seed': {
+				u 'kind': u 'sj#radioSeed',
+				u 'curatedStationId': u 'Lppdtokpw7uj4uwcyfhhujakrom',
+				u 'seedType': u '9'
+			},
+			u 'skipEventHistory': [],
+			u 'compositeArtRefs': [{
+				u 'url': u 'http://lh3.googleusercontent.com/pt9YInWkUw7sQdU0bNanHw2GtxPdofefIRkXst5UdDBc4WZ5AVdeBe3AlQ',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1'
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/-vdk7BXb1w3WePkjgjVePQcr9o7IqbJ2GEEOLFiQbRjiw94pMN9Mh7j_Qg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '2'
+			}],
+			u 'imageUrls': [{
+				u 'url': u 'http://lh3.googleusercontent.com/CsVEOR2B6gOmAS-iPHEqqfh9g_vqOMCIpOjiAwcOgf525whomMPMp168SzC2ZdALxjAB110y',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.ggpht.com/Irbrwl9zKoS3rSlFWLP-pdruuJW4HqjJJjVvlnoF_pYMzI2QiCjtlaPBoY5-Ii1Czg7E9tf1Rg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/nXVcImsGxLMi-Ta473Beh6Mv4CY6918fK36zmWw5HCLM4iYVIjJSAStHvkcZIdlP05FijLzP2Rs',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.ggpht.com/Q5pLt3fykfr8OqwEOpKeshT5eF-_i_b1y05hHdQilpFWRAo1ZI3yqmqkfSc6zZ-oDIqXyahU',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh4.ggpht.com/_DapICvQPARteo7Ed6ha2vBX6Y4WNhEMKxxXIkw_X1s3v0HOSeMX8v30Nt6xjGYPlwgZblkK7_A',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.ggpht.com/hnnnfagq0l98Nx0YG5EazotoYh9702gAMZ9yXtw9mh4QnIEQpf99DDv72V4pB8fBu9fOt5_stCo',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/kR0nQ5azbypVPFDqfdcuihhuFakQfrUV2oNOkYDaycYloqJihR95BJEnBj7PH6wDstvZmypZ8QY',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.ggpht.com/WXXZV7heECmnxxn0zYgQajPqerCnbdrEPCrlfTsTqq6aWEmRQcv5Mqu3RWO8BD455xUmTD_l4bg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}],
+			u 'description': u 'Listen to these epic rock songs, perfect for sing-alongs as the bar reaches closing time.'
+		},
+		u 'type': u '6'
+	}, {
+		u 'station': {
+			u 'kind': u 'sj#radioStation',
+			u 'name': u 'Van Morrison',
+			u 'stationSeeds': [{
+				u 'kind': u 'sj#radioSeed',
+				u 'artistId': u 'Aipvb4pceg552tekxtggrnpajy4',
+				u 'seedType': u '3'
+			}],
+			u 'seed': {
+				u 'kind': u 'sj#radioSeed',
+				u 'artistId': u 'Aipvb4pceg552tekxtggrnpajy4',
+				u 'seedType': u '3'
+			},
+			u 'skipEventHistory': [],
+			u 'imageUrls': [{
+				u 'url': u 'http://lh3.googleusercontent.com/lPkNqLROS-WHGgDd_5TzBKGfuGpt_yRv_Qln7TxkXR71JT93B94qgfz1QqtysZAapC8cBCD3',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}]
+		},
+		u 'type': u '6'
+	}, {
+		u 'station': {
+			u 'kind': u 'sj#radioStation',
+			u 'byline': u 'By Google Play Music',
+			u 'name': u 'Celebrate Good Times!',
+			u 'stationSeeds': [{
+				u 'kind': u 'sj#radioSeed',
+				u 'curatedStationId': u 'Lbsbcddjz4u6isvqv3dfqvz3rzm',
+				u 'seedType': u '9'
+			}],
+			u 'contentTypes': [u '1'],
+			u 'seed': {
+				u 'kind': u 'sj#radioSeed',
+				u 'curatedStationId': u 'Lbsbcddjz4u6isvqv3dfqvz3rzm',
+				u 'seedType': u '9'
+			},
+			u 'skipEventHistory': [],
+			u 'compositeArtRefs': [{
+				u 'url': u 'http://lh3.googleusercontent.com/g36PuJiyjqdtoULkLbvrsj8Q8O59p2ZeeOgOeuchOM8oabbN92DC76QdWw',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '2'
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/8nYB6KId4PK5FwoAE8OQo8yK-KN9iGzfzRnklK0mnb3NTfJgL7pdl9il',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1'
+			}],
+			u 'imageUrls': [{
+				u 'url': u 'http://lh3.googleusercontent.com/cpDoCgbsxJT-Z-FfmGob049RmSa2jHSo5MXYRe_h8vK_8IqCxU3wszspOY4xi3aeNrSoPZPp',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.ggpht.com/IqIzfnTe4kBfJRxLEK_behKMzu-LJwgHwiv2QNzEXP5iVgbcITfMv-Eg-LCGyxTkkRzNNPRN',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/XIT-RPrpNAqF4ifoIt4iaqW2EYyR0JR2sTEDnImNW2Fyb2BRLTcT1n6S3A8ROqMCMETM8HAg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/mNsIvR3aqZ_kxkuy09gl2Uy1knw-xg6t0IT6wdAD-RmNZlxriLHd0EmLw1BCJr2Ugelv5sFwkw',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/U2u_ZMDk6nxKzUxlNgCakNEs6U9GKETY6D1BPOcctVMzBoCZrL6GkXuLslyjgAHbpXcJLZpFeg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/4b2EEsiTVdd01_qWhDpKdRHFeRFoPVTgSqhHj4X5B0jVUCei8rLOvlMBWNusydCAKgEZ6b0jKWY',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh5.ggpht.com/T0O9Nr8ZeRyu12U8IkCVz79qulIXk3poSiDojF7s5zI19Di5vDpFAt0Pv1MMmbuCCKKSXcr5AA',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/rAFDIz_KQqOSzrP8tc0USWXwVYJ5DG0KhavVbiUCZj9XbwO7_kbbbdAY4dpa6GDKafdu5RRRRA',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}],
+			u 'description': u "It doesn't matter where you are or what you're doing, this upbeat and celebratory mix of timeless songs will have everyone dancing in no time."
+		},
+		u 'type': u '6'
+	}, {
+		u 'station': {
+			u 'kind': u 'sj#radioStation',
+			u 'name': u 'Keep Me Alive',
+			u 'stationSeeds': [{
+				u 'kind': u 'sj#radioSeed',
+				u 'artistId': u 'Azzxtkwt75a5hp67onitpu73ao4',
+				u 'seedType': u '3'
+			}],
+			u 'seed': {
+				u 'kind': u 'sj#radioSeed',
+				u 'artistId': u 'Azzxtkwt75a5hp67onitpu73ao4',
+				u 'seedType': u '3'
+			},
+			u 'skipEventHistory': [],
+			u 'imageUrls': [{
+				u 'url': u 'http://lh3.googleusercontent.com/ibPdvcSZDYlq-ogeEscyrV16meCstkz6Eb_uHssoQ3xMPdsZ7mv4wAuZkVq3SITi_I6eoWbY',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '2',
+				u 'autogen': True
+			}, {
+				u 'url': u 'http://lh6.ggpht.com/qRurd7KjLtxd2BDIUFhSTtxLYJ6i9p6Ad2Dp6omI5GZuRRJSvoCfEcsMbVzml0JAtpKlv_nw3Wg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': True
+			}]
+		},
+		u 'type': u '6'
+	}, {
+		u 'station': {
+			u 'kind': u 'sj#radioStation',
+			u 'name': u 'Frank Sinatra',
+			u 'compositeArtRefs': [{
+				u 'url': u 'http://lh3.googleusercontent.com/ZReE8pXSBMq0rrGDEos7VsYw1ryzY2-AhwvFSUNsvi7c57GtjBUq_0sh3A',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1'
+			}, {
+				u 'url': u 'http://lh3.googleusercontent.com/KzINX2_prI1U_t7Ma2HAt_i4aqxnNcNFamaoP9zcG6vmbScAZhnzwYhzsMg',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '4'
+			}],
+			u 'seed': {
+				u 'kind': u 'sj#radioSeed',
+				u 'artistId': u 'Agq2vf7t7dntodd446tw5fhku4e',
+				u 'seedType': u '3'
+			},
+			u 'skipEventHistory': [],
+			u 'stationSeeds': [{
+				u 'kind': u 'sj#radioSeed',
+				u 'artistId': u 'Agq2vf7t7dntodd446tw5fhku4e',
+				u 'seedType': u '3'
+			}],
+			u 'imageUrls': [{
+				u 'url': u 'http://lh6.ggpht.com/oKHlNaMGEGF3YT5M844deecjybti147JVJ7E-bitzg8lZ8Ju04IQG1ZcYTq42SYjARbONvjFGCc',
+				u 'kind': u 'sj#imageRef',
+				u 'aspectRatio': u '1',
+				u 'autogen': False
+			}]
+		},
+		u 'type': u '6'
+	}], u 'situation_hits': []
+}

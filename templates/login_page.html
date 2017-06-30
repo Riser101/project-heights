@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<title>Homepage</title>
+	<script>
+		$(document).ready(function(){
+		    $("button").click(function(){
+		        $.post("http://127.0.0.1:5002/login",
+		        {
+		          username: "yousuf",
+		          password: "syed"
+		        },
+		        function(result){
+		        	//TODO    
+		        	console.log(result);
+		        	$('#content').html($(result).find('body').html());
+		        });
+		        // window.location = "http://127.0.0.1:5002/search/keep+me"
+		    });
+		});
+	</script>
+</head>
+<body>
+
+<button id="loginButton">Click here to login</button>
+<div id="content"></div>
+</body>
+</html>
